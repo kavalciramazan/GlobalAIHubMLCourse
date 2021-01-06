@@ -1,12 +1,23 @@
 # GlobalAIHubMLCourse
 
+![](img/logo.png)
 
+**Course Date:04.01.2021**
+**Name:** Ramazan  
+**Surname:** KAVALCI  
+**Email:** kavalciramazan@gmail.com 
 
-Course date:04.01.2021
+**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
-Name: Ramazan
+## Project Name
+Description...
 
-Surname: KAVALCI
+## Requirements
+Some python libraries
 
-Email: kavalciramazan@gmail.com
+---
+
+### Certification
+![](img/certificate_ex.png)
+
 
